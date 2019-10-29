@@ -13,3 +13,5 @@ William J Leon
 [Lab 05](https://github.com/wjl88/IDD-Fa19-Lab5)
 
 [Lab 06](https://github.com/wjl88/IDD-Fa19-Lab6)
+
+[Lab 07](https://github.com/wjl88/IDD-Fa19-Lab7)
